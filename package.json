@@ -1,0 +1,40 @@
+{
+  "name": "anonymatch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@8bu/vue-otp-input": "^1.2.2",
+    "@egjs/vue-flicking": "^3.5.1",
+    "core-js": "^3.6.5",
+    "lottie-vuejs": "^0.4.0",
+    "particles.vue": "^2.1.11",
+    "register-service-worker": "^1.7.1",
+    "vue": "^2.6.11",
+    "vue-meta": "^2.4.0",
+    "vue-otp-2": "^1.0.1",
+    "vue-otp-field": "^0.1.5",
+    "vue-router": "^3.2.0",
+    "vue-sticky-directive": "0.0.10",
+    "vue-typed-js": "^0.1.2",
+    "vue2-animate": "^2.1.4",
+    "vue2-transitions": "^0.3.0",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "~2.0.8",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
+  }
+}
